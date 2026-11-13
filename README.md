@@ -1,2 +1,10 @@
 # cybersecurity-portfolio
-Ich bin Absolvent der Wirtschafts- und Industrieinformatik (B.Sc.) und entwickle meine Kenntnisse im Bereich Cybersecurity gezielt weiter. Durch meine langjährige Berufserfahrung in sicherheitskritischen Arbeitsumgebungen bringe ich ein ausgeprägtes Verantwortungsbewusstsein sowie Erfahrung im strukturierten Umgang mit Risiken mit. Zu meinen Stärken zählen analytisches Denken, strukturiertes Arbeiten und technisches Verständnis. Besonders interessieren mich die Sicherheit von IT-Systemen, der Schutz sensibler Daten sowie die Analyse und Bewertung von Sicherheitsrisiken. Mein Ziel ist es, mein IT-Fachwissen und meine berufliche Erfahrung zu verbinden, um Organisationen bei der Identifikation von Risiken und der Umsetzung geeigneter Sicherheitsmaßnahmen zu unterstützen.
+I hold a Bachelor's degree (B.Sc.) in Business and Industrial Informatics and am actively expanding my knowledge and skills in cybersecurity.
+
+With many years of professional experience in safety-critical working environments, I have developed a strong sense of responsibility and a structured approach to identifying and managing risks.
+
+My key strengths include analytical thinking, a systematic approach to problem-solving, and a solid understanding of technology.
+
+I am particularly interested in IT security, protecting sensitive data, and identifying and assessing cybersecurity risks.
+
+My goal is to combine my technical background with my professional experience to help organizations identify potential security threats, assess risks, and implement effective security measures.
